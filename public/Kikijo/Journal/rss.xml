@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Journal</title>
+    <link>http://kikijo.com/Kikijo/Journal/Journal.html</link>
+    <description>Sometimes you need a thousand words to go with a picture. Or maybe just a couple dozen. Here are my musings on the photos I take and the creative process.</description>
+    <generator>iWeb 3.0.4</generator>
+    <image>
+      <url>http://kikijo.com/Kikijo/Journal/Journal_files/KikiBryce_0061.jpg</url>
+      <title>My Journal</title>
+      <link>http://kikijo.com/Kikijo/Journal/Journal.html</link>
+    </image>
+    <item>
+      <title>David</title>
+      <link>http://kikijo.com/Kikijo/Journal/Entries/2009/3/16_David.html</link>
+      <guid isPermaLink="false">f99bcc2e-f69c-43ed-91dc-4b75e5f5d389</guid>
+      <pubDate>Mon, 16 Mar 2009 21:57:50 -0700</pubDate>
+      <description>&lt;a href=&quot;http://kikijo.com/Kikijo/Journal/Entries/2009/3/16_David_files/David_o.jpg&quot;&gt;&lt;img src=&quot;http://kikijo.com/Kikijo/Journal/Media/object008_1.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:183px; height:137px;&quot;/&gt;&lt;/a&gt;David in the park.</description>
+      <enclosure url="http://kikijo.com/Kikijo/Journal/Entries/2009/3/16_David_files/David_o.jpg" length="101511" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Spotting love at the zoo</title>
+      <link>http://kikijo.com/Kikijo/Journal/Entries/2007/4/11_Spotting_love_at_the_zoo.html</link>
+      <guid isPermaLink="false">a5c49736-e583-40a7-ab67-2a338ccd0e8d</guid>
+      <pubDate>Wed, 11 Apr 2007 23:01:59 -0700</pubDate>
+      <description>&lt;a href=&quot;http://kikijo.com/Kikijo/Journal/Entries/2007/4/11_Spotting_love_at_the_zoo_files/Giraffe_o.jpg&quot;&gt;&lt;img src=&quot;http://kikijo.com/Kikijo/Journal/Media/object009.jpg&quot; style=&quot;float:left; padding-right:10px; padding-bottom:10px; width:183px; height:137px;&quot;/&gt;&lt;/a&gt;This all happened so quickly. I was at the zoo and the giraffes were hanging out. Next thing I know, they’re necking. In an instant I pulled out my camera and got this one shot. And just like that, the moment was gone.</description>
+      <enclosure url="http://kikijo.com/Kikijo/Journal/Entries/2007/4/11_Spotting_love_at_the_zoo_files/Giraffe_o.jpg" length="233250" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

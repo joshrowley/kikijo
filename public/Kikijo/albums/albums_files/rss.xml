@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>albums</title>
+    <link>http://kikijo.com/Kikijo/albums/albums.html</link>
+    <description>Portfolio
+Click the photo albums below to view a slideshow.</description>
+    <item>
+      <title>Portraits</title>
+      <link>http://kikijo.com/Kikijo/albums/Pages/Portraits.html</link>
+      <guid isPermaLink="false">74efce12-65ef-42d6-9813-cfc14d21c842</guid>
+    </item>
+    <item>
+      <title>Pets</title>
+      <link>http://kikijo.com/Kikijo/albums/Pages/Pets.html</link>
+      <guid isPermaLink="false">1c8bd63a-3f17-4524-a988-b0fa52690fd5</guid>
+    </item>
+  </channel>
+</rss>

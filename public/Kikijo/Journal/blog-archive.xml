@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Journal</title>
+    <link>http://kikijo.com/Kikijo/Journal</link>
+    <description>Sometimes you need a thousand words to go with a picture. Or maybe just a couple dozen. Here are my musings on the photos I take and the creative process.</description>
+    <item>
+      <title>David</title>
+      <link>http://kikijo.com/Kikijo/Journal/Entries/2009/3/16_David.html</link>
+      <guid isPermaLink="false">f99bcc2e-f69c-43ed-91dc-4b75e5f5d389</guid>
+      <pubDate>Mon, 16 Mar 2009 21:57:50 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://kikijo.com/Kikijo/Journal/Entries/2009/3/16_David.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Spotting love at the zoo</title>
+      <link>http://kikijo.com/Kikijo/Journal/Entries/2007/4/11_Spotting_love_at_the_zoo.html</link>
+      <guid isPermaLink="false">a5c49736-e583-40a7-ab67-2a338ccd0e8d</guid>
+      <pubDate>Wed, 11 Apr 2007 23:01:59 -0700</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://kikijo.com/Kikijo/Journal/Entries/2007/4/11_Spotting_love_at_the_zoo.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://kikijo.com/Kikijo/Journal</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="C024046D-5C2E-4045-938B-3AB292191865">
+  <lastEdited clientType="local-build-20121109" date="2012-11-09 16:28:14 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Spotting love at the zoo</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>This all happened so quickly. I was at the zoo and the giraffes were hanging out. Next thing I know, they&#x2019;re necking. In an instant I pulled out my camera and got this one shot. And just like that, the moment was gone.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday, April 11, 2007</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_Spotting_love_at_the_zoo_files/shapeimage_1.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

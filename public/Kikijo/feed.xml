@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:77FB043A-19B9-41E8-B265-0333CFE488B6</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-11-09T08:28:12-08:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:A2DE7EDA-CA84-4B8A-A0F9-386B213DA02F</id>
+  <title>home</title>
+  <title xmlns="urn:iweb:">home</title>
+  <in-navbar xmlns="urn:iweb:">A2DE7EDA-CA84-4B8A-A0F9-386B213DA02F</in-navbar>
+  <link rel="alternate" href="home.html"/>
+  <updated>2012-11-09T08:28:12.001-08:00</updated>
+  <content>home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:6D99D0CE-876C-403F-A658-E8651E2D3CA8</id>
+  <title>the artist</title>
+  <title xmlns="urn:iweb:">the artist</title>
+  <in-navbar xmlns="urn:iweb:">6D99D0CE-876C-403F-A658-E8651E2D3CA8</in-navbar>
+  <link rel="alternate" href="the_artist.html"/>
+  <updated>2012-11-09T08:28:12.002-08:00</updated>
+  <content>the artist</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:910D8AD4-FCC6-454B-8BD8-45D09E0383A9</id>
+  <title>Journal</title>
+  <title xmlns="urn:iweb:">Journal</title>
+  <in-navbar xmlns="urn:iweb:">910D8AD4-FCC6-454B-8BD8-45D09E0383A9</in-navbar>
+  <link rel="alternate" href="Journal/Journal.html"/>
+  <updated>2007-01-23T09:29:52-08:00</updated>
+  <content>Journal</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:DF23126A-3382-4246-937D-666A19E3D85E</id>
+  <title>albums</title>
+  <title xmlns="urn:iweb:">albums</title>
+  <in-navbar xmlns="urn:iweb:">DF23126A-3382-4246-937D-666A19E3D85E</in-navbar>
+  <link rel="alternate" href="albums/albums.html"/>
+  <updated>2012-11-09T08:28:12.003-08:00</updated>
+  <content>albums</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A46163D7-33A3-4F98-A862-0AC47173422D</id>
+  <title>pricing</title>
+  <title xmlns="urn:iweb:">pricing</title>
+  <in-navbar xmlns="urn:iweb:">A46163D7-33A3-4F98-A862-0AC47173422D</in-navbar>
+  <link rel="alternate" href="pricing.html"/>
+  <updated>2012-11-09T08:28:12.004-08:00</updated>
+  <content>pricing</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:79E36419-A3C8-4BC8-ABB9-726E9BFDD530</id>
+  <title>rescue</title>
+  <title xmlns="urn:iweb:">rescue</title>
+  <in-navbar xmlns="urn:iweb:">79E36419-A3C8-4BC8-ABB9-726E9BFDD530</in-navbar>
+  <link rel="alternate" href="rescue.html"/>
+  <updated>2012-11-09T08:28:12.005-08:00</updated>
+  <content>rescue</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4129A5CD-F633-4F01-A121-6E0C504A8AC3</id>
+  <title>walkingdogs</title>
+  <title xmlns="urn:iweb:">walkingdogs</title>
+  <in-navbar xmlns="urn:iweb:">4129A5CD-F633-4F01-A121-6E0C504A8AC3</in-navbar>
+  <link rel="alternate" href="walkingdogs.html"/>
+  <updated>2012-11-09T08:28:12.006-08:00</updated>
+  <content>walkingdogs</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3F06F5E6-DBFF-4CE1-A2A7-86CBE8D4F671</id>
+  <title>rex</title>
+  <title xmlns="urn:iweb:">rex</title>
+  <in-navbar xmlns="urn:iweb:">3F06F5E6-DBFF-4CE1-A2A7-86CBE8D4F671</in-navbar>
+  <link rel="alternate" href="rex.html"/>
+  <updated>2012-11-09T08:28:12.007-08:00</updated>
+  <content>rex</content>
+ </entry>
+</feed>
